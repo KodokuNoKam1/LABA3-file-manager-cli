@@ -1,0 +1,17 @@
+{
+    "name": "file-manager-cli",
+    "version": "1.0.0",
+    "description": "CLI tool for sorting strings and other tasks",
+    "main": "src/task_cli.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/task_cli.js"
+    },
+    "dependencies": {
+        "commander": "^13.1.0",
+        "minimist": "^1.2.8"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
